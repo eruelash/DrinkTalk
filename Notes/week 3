@@ -1,0 +1,23 @@
+CocktailTabView: - The bottom bar (explore, add, settings) → add an icon for explore (possibly a globe?), add icon for Add (a plus button)   
+
+EXPLORE - have search button on top, 3-5 randomized/recommended drinks on the bottom
+
+underneath the search bar - 5 random options (maybe recommendation eventually)
+
+Vstack (check function using option key )
+- does adding into orginal vstack work 
+
+NavigationView - ccreating own navigation view(maybe multiple v stacks with new navigation view for each new thing we want to add/new cocktails) for explore page 
+
+main storyboard
+
+Next steps
+Explore Page, adding list of generated five random cocktails
+Look into play around with aesethtics (rounding out corners, background colors and font) where to add 
+
+add button - clarification
+-  to create your own drink recipe 
+
+Your drinks (favorite, their lists, add button )
+middle tab be folders of teir drinks, their favorite drinks 
+
