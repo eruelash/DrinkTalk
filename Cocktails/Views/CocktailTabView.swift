@@ -11,13 +11,13 @@ struct CocktailTabView: View {
 
     var body: some View {
         TabView {
-            CocktailList()
+            CocktailExplore()
                 .tabItem {
-                    Label("Search", systemImage: "magnifyingglass")
+                    Label("Explore", systemImage: "magnifyingglass")
                 }
-            CocktailRandomView()
-                .tabItem {
-                    Label("Random", systemImage: "cube.fill")
+            CocktailAdd()
+                .tabItem{
+                    Label("Your Drinks", systemImage: "cube.fill")
                 }
             SettingsView()
                 .tabItem {
